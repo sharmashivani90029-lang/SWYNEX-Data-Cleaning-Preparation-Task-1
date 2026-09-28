@@ -1,0 +1,272 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s72, Movie ,Velvet Secret,,"Aamir Khan, Nawazuddin Siddiqui, Anya Taylor, Ryan Gosling",United Kingdom,2024/06/25,2024,TV-14,93 minutes,"Thrillers,Comedies",A young artist fights to save her neighborhood.
+s239,Movie,The Midnight Empire,Anurag Kashyap,"Deepika Padukone, Lupita Nyongo",France,"March 10, 2019",2004,TV-MA,162min,"Crime TV Shows, Dramas", 
+s228,TV Show,Broken City,Steven Lee,"Emma Stone, Ryan Gosling",India,"December 28, 2021",2006,R,4 Seasons,"Comedies, Horror Movies",A documentary exploring life in a rapidly changing city.
+s57,Movie,Distant Promise,Anurag Kashyap,"Priyanka Chopra, Lupita Nyongo",France,"June 26, 2024",2023,G,0 min,"Thrillers, International Movies",A documentary exploring life in a rapidly changing city.
+s180,Movie,Distant Road,,"Rohit Sharma, Deepika Padukone, John Cho, Irrfan Khan",Spain,"December 17, 2025",2007,R,450 min,"Action & Adventure,Comedies",An investigator uncovers a conspiracy in a small town.
+s140,TV Show,MIDNIGHT STORM,,n/a,South Korea,,2003,TV-Y7,5 Seasons,"Thrillers, Action & Adventure",
+s78,Movie,Velvet Harvest,Karan Johar,"Tom Hardy, Ryan Gosling",Germany,"May 20, 2021",2021,TV-MA,114 minutes,"Comedies, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s71,Movie,The Wild Signal,steven lee,"Aamir Khan, Kiara Advani, Rohit Sharma, Tabu",123,"February 22, 2025",2024,R,102 min,"Kids' TV, Documentaries",A gripping story of a family torn apart by secrets.
+s70,Movie,Crimson City,Ava DuVernay,"Zendaya, Anya Taylor, Tabu",United States,12-12-2015,20l8,TV-PG,102 min,"Crime TV Shows, Romantic Movies",A gripping story of a family torn apart by secrets.
+s198,TV Show,Electric Horizon,,"Emma Stone, Tabu, Nawazuddin Siddiqui, Vikrant Massey",U.K.,"February 12, 2020",2014,R,6 Season,"Horror Movies, International Movies",A young artist fights to save her neighborhood.
+s156,Movie,Dark Mirror,Sara Ali,"Rohit Sharma, Kiara Advani, Anya Taylor, Tabu",Germany,"January 13, 2019",2099,TV-PG,117 minutes,"Horror Movies, Thrillers",An investigator uncovers a conspiracy in a small town.
+s13,Movie,the crimson letter,David Chen,,South Korea,08-08-2025,20l8,TV-PG,135 minutes,"Horror Movies, Kids' TV",A comedy about a wedding that goes hilariously wrong.
+s175,TV Show,The Hidden Game,Maria Lopez,"Emma Stone, Tabu",Japan,03 Aug 2021,2020,TV-14,2 season(s),"Thrillers, Horror Movies",Two strangers meet and change each other's lives forever.
+s97,Movie,  Wild Road  ,Karan Johar,"John Cho, Rohit Sharma",United Kingdom,"June 8, 2016",2O21,R,78min,"Dramas, Action & Adventure",A comedy about a wedding that goes hilariously wrong.
+s223,Movie,Broken Song,Maria Lopez,"Tabu, Deepika Padukone",Japan,"December 5, 2018",2005,PG,3 Seasons,"Horror Movies, Action & Adventure",A documentary exploring life in a rapidly changing city.
+,,,,,,,,,,,
+s151,TV Show,Electric Promise,Sara Ali,"John Cho, Tom Hardy, Rohit Sharma",United Kingdom,06-05-2016,2010,PG-13,110 min,"Crime TV Shows, Romantic Movies",A gripping story of a family torn apart by secrets.
+s215,Movie,Silent Road,Unknown,"Priyanka Chopra, John Cho, Deepika Padukone",Germany,2025/09/21,2024,PG-13,151 min,"Romantic Movies, Action & Adventure",A young artist fights to save her neighborhood.
+s217,Movie,Paper Mirror,David Chen,"Lupita Nyongo, Irrfan Khan, Nawazuddin Siddiqui",united kingdom,18 Nov 2021,2020,,156 min,"Action & Adventure, Comedies",A comedy about a wedding that goes hilariously wrong.
+s187,Movie,wild game,Rajkumar Hirani,"Irrfan Khan, Deepika Padukone",NaN,,twenty twenty,TV-MA,137 min,"Crime TV Shows, Horror Movies",A young artist fights to save her neighborhood.
+s131,Movie,the golden road,Maria Lopez,"Aamir Khan, Nawazuddin Siddiqui, John Cho, Tabu",Canada,"June 10, 2024",2022,PG,149 min,Comedies | International Movies,An investigator uncovers a conspiracy in a small town.
+s149,Movie,Crimson Game,Denis Villeneuve,"Kiara Advani, Aamir Khan, John Cho, Vikrant Massey",United Kingdom,13 Feb 2018,2018,PG-13,123 min,"International Movies, Horror Movies",A young artist fights to save her neighborhood.
+s45,Movie,The Silent Horizon,,n/a,Canada,"April 7, 2017",2035,TV-14,169 min,"Documentaries, Romantic Movies",Two strangers meet and change each other's lives forever.
+s147,TV Show,THE VELVET HARVEST,Steven Lee,"Kiara Advani, John Cho, Zendaya, Aamir Khan",INDIA,"September 15, 2018",,TV-Y7,110 min,"Dramas, Kids' TV",A documentary exploring life in a rapidly changing city.
+s157,Movie,Hidden Mirror,Maria Lopez,"Kiara Advani, Priyanka Chopra, Rohit Sharma, Emma Stone",Japan,11-07-2017,2008,TV-Y7,112 min,Action & Adventure | Horror Movies,An investigator uncovers a conspiracy in a small town.
+s237,Movie,Crimson Mirror,Anurag Kashyap,"John Cho, Nawazuddin Siddiqui, Zendaya",united kingdom,23-10-2021,2010,R,106 min,"Horror Movies, Crime TV Shows",An investigator uncovers a conspiracy in a small town.
+s221,TV Show,PAPER RIVER,Greta Gerwig,"Lupita Nyongo, Nawazuddin Siddiqui",UK,"January 22, 2023",2022,not rated,1 Season,"Horror Movies, Crime TV Shows",A documentary exploring life in a rapidly changing city.
+s83,Movie,Dark Horizon,David Chen,"Ryan Gosling, Tom Hardy, Anya Taylor",India,"September 18, 2018",2015,TV-Y7,160 min,"Dramas, International Movies",A gripping story of a family torn apart by secrets.
+s206,Movie,Midnight Game,,"Ryan Gosling, Tom Hardy, Anya Taylor",India,19 Aug 2025,2015,R,105 min,"Comedies, International Movies",Two strangers meet and change each other's lives forever.
+s154,Movie,The Wild City,Sara Ali,,South Korea,10/26/24,2000,PG 13,116 min,"Crime TV Shows, Documentaries",A documentary exploring life in a rapidly changing city.
+s50,TV Show,  Dark City  ,Bong Joon-ho,"Nawazuddin Siddiqui, Vikrant Massey",France,"October 22, 2025",2023,R,2 Seasons,"Comedies, Dramas",Two strangers meet and change each other's lives forever.
+s231,TV Show,Velvet Game,Sara Ali,"Tabu, Deepika Padukone, Rohit Sharma",,"November 6, 2015",0,TV-PG,5 season(s),"Documentaries, Romantic Movies",An investigator uncovers a conspiracy in a small town.
+s41,Movie,DISTANT GAME,David Chen,"Kiara Advani, Zendaya, Tom Hardy, Lupita Nyongo",Australia,09 Nov 2023,2003,TV-14,N/A,"Romantic Movies, Documentaries",A gripping story of a family torn apart by secrets.
+s67,TVShow,The Hidden Secret,Sara Ali,,NaN,24-11-2018,2002,,6 season(s),"Crime TV Shows, Comedies",A comedy about a wedding that goes hilariously wrong.
+s192,Movie,THE MIDNIGHT CITY,Zoya Akhtar,"Vikrant Massey, Aamir Khan",United Kingdom,"February 28, 2023",2023,TV-Y7,117 min,"Horror Movies, International Movies",A gripping story of a family torn apart by secrets.
+s198,TV Show,Electric Horizon,,"Emma Stone, Tabu, Nawazuddin Siddiqui, Vikrant Massey",U.K.,"February 12, 2020",2014,R,6 Season,"Horror Movies, International Movies",A young artist fights to save her neighborhood.
+s60, Movie ,  Paper Promise  ,Karan Johar,,Spain,"August 26, 2016",2002,TV-Y7,108 minutes,"Romantic Movies, International Movies",A documentary exploring life in a rapidly changing city.
+s152,Movie,The Silent Empire,Anurag Kashyap,"Kiara Advani, Emma Stone, Tabu",Spain,2023/06/01,2017,TV-Y7,156 min,"Horror Movies, Thrillers",A young artist fights to save her neighborhood.
+s43,Movie,The Paper Song,Ava DuVernay,"Zendaya, Lupita Nyongo, Kiara Advani, John Cho",Germany,24 Apr 2016,2004,G,127 minutes,"Dramas, Comedies",An investigator uncovers a conspiracy in a small town.
+s107,TV Show,The Hidden Harvest,Zoya Akhtar,"Irrfan Khan, Lupita Nyongo, Zendaya",Canada,08/17/17,1998,TV-14,4 Season,"International Movies, Documentaries",A gripping story of a family torn apart by secrets.
+s150,TV SHOW,Velvet City,Zoya Akhtar,"Irrfan Khan, Vikrant Massey, Kiara Advani, Priyanka Chopra",Unknown,"December 19, 2018",2005,R,4 season(s),"Romantic Movies, Dramas",Two strangers meet and change each other's lives forever.
+s163,Movie,The Wild Empire,Rajkumar Hirani,"Tom Hardy, Emma Stone, Nawazuddin Siddiqui, Rohit Sharma",United States,14 Oct 2022,2004,PG-13,124,Crime TV Shows | Thrillers,An investigator uncovers a conspiracy in a small town.
+s224,TV Show, The Silent Storm ,Zoya Akhtar,"Irrfan Khan, Priyanka Chopra, Vikrant Massey, Lupita Nyongo",UK,01 Nov 2025,2004,TV-Y7,3 Seasons,"Comedies, Crime TV Shows",A young artist fights to save her neighborhood.
+s59,TV Show,  Distant Secret  ,Meera Nair,"Emma Stone, Anya Taylor, Vikrant Massey",Germany,"March 16, 2025",2023,PG-13,1 Season,"Crime TV Shows, International Movies",A gripping story of a family torn apart by secrets.
+s153,TV Show,Last Promise,Anurag Kashyap,,U.S.A,"June 12, 2021",,r,1 Season,"Comedies, Thrillers",A comedy about a wedding that goes hilariously wrong.
+s161,Movie,the midnight letter,,"Vikrant Massey, Rohit Sharma, Emma Stone",Spain,"December 5, 2016",2000,G,119 min,"Romantic Movies, International Movies",A gripping story of a family torn apart by secrets.
+s144,Movie,Crimson River,Ava DuVernay,"Tom Hardy, Tabu, Vikrant Massey",Unknown,"February 26, 2022",2013,PG,N/A,"Kids' TV, Documentaries",A young artist fights to save her neighborhood.
+s54,Movie,Hidden City,Ava DuVernay,"Deepika Padukone, Emma Stone, Irrfan Khan",Japan,2015/11/28,2014,,144 min,International Movies | Dramas,Two strangers meet and change each other's lives forever.
+s43,Movie,The Paper Song,Ava DuVernay,"Zendaya, Lupita Nyongo, Kiara Advani, John Cho",Germany,24 Apr 2016,2004,G,127 minutes,"Dramas, Comedies",An investigator uncovers a conspiracy in a small town.
+s74,Movie,Iron River,David Chen,"Priyanka Chopra, Zendaya, John Cho, Aamir Khan",INDIA,"October 2, 2018",2014,G,168 min,"Horror Movies, Kids' TV",A young artist fights to save her neighborhood.
+s233,Movie,The Crimson Road,David Chen,"Priyanka Chopra, Vikrant Massey, Irrfan Khan, Anya Taylor",Canada,"January 27, 2023",2015,G,,"Romantic Movies, Kids' TV",A gripping story of a family torn apart by secrets.
+s107,tv show,Midnight Promise,Meera Nair,"Tabu, Tom Hardy, Priyanka Chopra",France,"March 20, 2022",2014,TV-PG,5 Seasons,"Crime TV Shows, Kids' TV",A documentary exploring life in a rapidly changing city.
+s183,movie,Wild Signal,Karan Johar,"Kiara Advani, Anya Taylor",Australia,"August 15, 2017",2016,R,140,"Romantic Movies, Thrillers",An investigator uncovers a conspiracy in a small town.
+s135,Movie,Iron Road,N/A,"Aamir Khan, Tom Hardy, Nawazuddin Siddiqui",india,01/18/24,0,tvma,134 min,"Kids' TV, Comedies",A gripping story of a family torn apart by secrets.
+s21,Movie,The Paper Storm,Sara Ali,"Kiara Advani, Nawazuddin Siddiqui, Anya Taylor",India,22-04-2020,2004,PG-13,2h 36m,"Horror Movies, Action & Adventure",A gripping story of a family torn apart by secrets.
+s196,tv show,electric river,Meera Nair,"Tom Hardy, Anya Taylor",Germany,23-12-2016,2016,TV-14,3 season(s),"Thrillers, International Movies",A gripping story of a family torn apart by secrets.
+s142,Movie,Lost Horizon,Sara Ali,"Tom Hardy, Rohit Sharma",Australia,"October 20, 2025",2010,Adult,80 minutes,"International Movies, Documentaries",An investigator uncovers a conspiracy in a small town.
+s46,Movie,Last Road,Christopher Nolan,"Kiara Advani, Deepika Padukone, Anya Taylor, Aamir Khan",Australia,10-09-2015,1999,TV-14,164 min,"International Movies, Kids' TV",A comedy about a wedding that goes hilariously wrong.
+s23,movie,The Wild Promise,Greta Gerwig,"Emma Stone, Tabu, Rohit Sharma, Irrfan Khan",South Korea,,2023,R,162 minutes,"Documentaries, Thrillers",Two strangers meet and change each other's lives forever.
+s131,Movie, the golden road ,Maria Lopez,"Aamir Khan, Nawazuddin Siddiqui, John Cho, Tabu",Canada,"June 10, 2024",2022,PG,149 min,Comedies | International Movies,An investigator uncovers a conspiracy in a small town.
+s95,TV Show,iron secret,Unknown,"Anya Taylor, Ryan Gosling, Kiara Advani",Canada,"October 15, 2025",2009,R,4 Seasons,"Action & Adventure,Dramas",A young artist fights to save her neighborhood.
+s18,Movie,Golden Mirror,,NULL,Japan,19 Oct 2025,2011,TV-MA,141 min,"Action & Adventure, Horror Movies",Two strangers meet and change each other's lives forever.
+s117,Movie,Lost Letter,Greta Gerwig,"Lupita Nyongo, Aamir Khan",India,"July 17, 2016",1998,tv14,133 minutes,"International Movies, Kids' TV",An investigator uncovers a conspiracy in a small town.
+s21,Movie,The Paper Storm,Sara Ali,"Kiara Advani, Nawazuddin Siddiqui, Anya Taylor",India,22-04-2020,2004,PG-13,2h 36m,"Horror Movies, Action & Adventure",A gripping story of a family torn apart by secrets.
+s93,Movie,The Golden Promise,Sara Ali,NULL,Australia,"September 25, 2023",2023,R,144 min,"Kids' TV, Horror Movies",Two strangers meet and change each other's lives forever.
+s164,Movie,Hidden Garden,Denis Villeneuve,"Rohit Sharma, Priyanka Chopra, Deepika Padukone, Tabu",Japan,"November 11, 2023",2013,G,151 min,"Kids' TV, Thrillers",A young artist fights to save her neighborhood.
+s8,TV Show,silent empire,zoya akhtar,"Irrfan Khan, Rohit Sharma, John Cho, Tabu",United States,"September 28, 2019",2014,,1 Season,"Horror Movies, Thrillers",A comedy about a wedding that goes hilariously wrong.
+s62,Movie,Last River,Christopher Nolan,"Ryan Gosling, Priyanka Chopra",South Korea,"October 22, 2021",2014,TV-MA,98,"International Movies, Thrillers",Two strangers meet and change each other's lives forever.
+s168,Movie,Paper Secret,Sara Ali,,Germany,"February 9, 2024",2001,TV-MA,144 minutes,"Horror Movies, Comedies",A young artist fights to save her neighborhood.
+s15,TV Show,the last letter,Sara Ali,"Ryan Gosling, Vikrant Massey",Canada,"February 2, 2023",2012,R,6 Season,"Horror Movies, International Movies",A comedy about a wedding that goes hilariously wrong.
+s142,Movie,Lost Horizon,Sara Ali,"Tom Hardy, Rohit Sharma",Australia,"October 20, 2025",2010,Adult,80 minutes,"International Movies, Documentaries",An investigator uncovers a conspiracy in a small town.
+s137,TV Show,Lost Empire,N/A,"Rohit Sharma, Anya Taylor, Emma Stone",Canada,10 Jan 2015,2005,G,4 S,"Romantic Movies, Thrillers",An investigator uncovers a conspiracy in a small town.
+s179,TV Show,The Distant River,Ava DuVernay,n/a,,18 Jun 2022,2016,PG,,"Action & Adventure, Documentaries",A gripping story of a family torn apart by secrets.
+s235,Movie,Velvet Horizon,Sara Ali,"Tom Hardy, Zendaya, Anya Taylor",Canada,04/07/24,2006,TV-PG,90 minutes,"Comedies, Horror Movies",A gripping story of a family torn apart by secrets.
+s53,Movie,Velvet Letter,Sara Ali,"John Cho, Tom Hardy",Germany,"June 22, 2020",2011,TV-14,88 min,"Horror Movies,Crime TV Shows",A gripping story of a family torn apart by secrets.
+s226,Movie,THE SILENT SONG,Zoya Akhtar,"Emma Stone, Vikrant Massey, Nawazuddin Siddiqui, John Cho",Canada,NA,2013,G,140 min,"Action & Adventure, Kids' TV",none
+s7,MOVIE,The Lost Storm,-,"Ryan Gosling, Rohit Sharma, Aamir Khan",US,06/08/22,2016,R,92 minutes,"Thrillers, Horror Movies",A documentary exploring life in a rapidly changing city.
+s12,Movie,The Golden Garden,Zoya Akhtar,"Deepika Padukone, Emma Stone, Kiara Advani, Aamir Khan",Japan,2018/10/08,2015,pg13,75 min,"Crime TV Shows, Documentaries",
+s104,Movie,The Last River,Denis Villeneuve,"Vikrant Massey, Tabu",Germany,20-08-2019,2007,PG,166 min,"Romantic Movies, Horror Movies",An investigator uncovers a conspiracy in a small town.
+s147,Movie,The Velvet Game,,"Anya Taylor, Emma Stone, Tabu, Vikrant Massey",,"March 6, 2021",2009,TV-PG,79 minutes,"Action & Adventure, Comedies",A documentary exploring life in a rapidly changing city.
+s130,TVShow,The Last Horizon,Sara Ali,"Rohit Sharma, Anya Taylor, Tom Hardy, Irrfan Khan",Japan,,2023,PG-13,2 Seasons,"Horror Movies, Comedies",Two strangers meet and change each other's lives forever.
+s105,Movie,Crimson Secret,Steven Lee,"Aamir Khan, Ryan Gosling",Australia,"June 17, 2024",2018,G,170min,"Dramas, Thrillers",A gripping story of a family torn apart by secrets.
+s19,Movie,The Crimson Harvest,Meera Nair,"Ryan Gosling, Irrfan Khan",Canada,15-01-2022,2022,,154 minutes,Thrillers | Romantic Movies,A gripping story of a family torn apart by secrets.
+s128,TVShow,The Crimson Mirror,Rajkumar Hirani,"Kiara Advani, Ryan Gosling, Lupita Nyongo",France,"July 27, 2017",1999,PG,2 Season,Dramas | Action & Adventure,A documentary exploring life in a rapidly changing city.
+s114,Movie,Distant Harvest,Denis Villeneuve,"Vikrant Massey, Deepika Padukone, Lupita Nyongo",India,26 Apr 2022,2007,R,162 min,"International Movies, Horror Movies",A comedy about a wedding that goes hilariously wrong.
+s5,TV SHOW,The Golden Harvest,Greta Gerwig,"Vikrant Massey, Tom Hardy",France,2019/10/21,2018,not rated,2 Seasons,"Romantic Movies, Dramas",Two strangers meet and change each other's lives forever.
+s52,TV Show,The Last Road,David Chen,"Kiara Advani, Irrfan Khan",Germany,11/27/24,2024,TV-14,N/A,"Thrillers, Horror Movies",A young artist fights to save her neighborhood.
+s17,Movie,The Paper River,Zoya Akhtar,n/a,Unknown,03/02/23,2014,TV-MA,140 minutes,"Horror Movies, Comedies",A documentary exploring life in a rapidly changing city.
+s16,Movie,Golden Game,,"Kiara Advani, Ryan Gosling, Emma Stone",France,2015/07/09,2010,TV-MA,133min,Dramas | Crime TV Shows,A gripping story of a family torn apart by secrets.
+s30,Movie,LAST GARDEN,Ava DuVernay,"Tom Hardy, Lupita Nyongo, Vikrant Massey",South Korea,20-08-2018,1999,G,84 minutes,"Horror Movies, Documentaries",Two strangers meet and change each other's lives forever.
+,,,,,,,,,,,
+s222,Movie,The Last Promise,Bong Joon-ho,"Anya Taylor, Vikrant Massey, John Cho",UK,"December 17, 2022",2007,TV-PG,151,"International Movies,Romantic Movies",Two strangers meet and change each other's lives forever.
+s82,movie,Dark Storm,Anurag Kashyap,"Nawazuddin Siddiqui, Rohit Sharma",France,"January 1, 2024",2010,TV-14,3 Seasons,"Romantic Movies, Comedies",A gripping story of a family torn apart by secrets.
+s81,Movie,The Iron Mirror,ava duvernay,"Irrfan Khan, Emma Stone, Rohit Sharma",Spain,"July 16, 2025",2012,PG-13,152 min,"Romantic Movies, Horror Movies",A gripping story of a family torn apart by secrets.
+s236,TV Show,  Dark Letter  ,Denis Villeneuve,"Kiara Advani, Vikrant Massey, Irrfan Khan, Rohit Sharma",United Kingdom,"January 17, 2022",2002,R,6 Seasons,"Thrillers, Comedies",A comedy about a wedding that goes hilariously wrong.
+s25,TV Show,Hidden Signal,Sara Ali,"Irrfan Khan, Tabu",Spain,"November 7, 2015",2035,TV-Y7,4 Seasons,"Crime TV Shows, Romantic Movies",A gripping story of a family torn apart by secrets.
+s109,Movie, Paper Song ,David Chen,"Zendaya, Rohit Sharma",NaN,"April 4, 2023",2009,PG,100 min,"Romantic Movies, Crime TV Shows",A documentary exploring life in a rapidly changing city.
+s227,MOVIE,Hidden Secret,,"Tabu, Kiara Advani, Vikrant Massey, Zendaya",Australia,01 Jan 2016,2001,TV-14,92,"Comedies, Romantic Movies",An investigator uncovers a conspiracy in a small town.
+s207,TV Show, Broken Road ,,"Ryan Gosling, Tom Hardy",Spain,11/05/18,2011,12345,5 Seasons,"Crime TV Shows, Romantic Movies",An investigator uncovers a conspiracy in a small town.
+s214,Movie,The Iron Road,Sara Ali,"Vikrant Massey, Nawazuddin Siddiqui, Emma Stone",Germany,14 May 2025,2007,tv14,123 min,"Crime TV Shows, Horror Movies",none
+s109,Movie,Paper Song,David Chen,"Zendaya, Rohit Sharma",NaN,"April 4, 2023",2009,PG,100 min,"Romantic Movies, Crime TV Shows",A documentary exploring life in a rapidly changing city.
+s133,TV Show,paper storm,,"Vikrant Massey, Irrfan Khan",Japan,"April 25, 2025",2023,PG-13,2 S,"Kids' TV, Comedies",A gripping story of a family torn apart by secrets.
+s229,TV Show,Dark Promise,Christopher Nolan,n/a,Germany,2017/11/27,2017,,6 Season,Comedies | Action & Adventure,A young artist fights to save her neighborhood.
+s171,Movie,CRIMSON SIGNAL,Maria Lopez,"Lupita Nyongo, Zendaya, Vikrant Massey",Japan,13-02-2025,2000,PG,N/A,"Comedies, International Movies",A young artist fights to save her neighborhood.
+s134,MOVIE,velvet storm,Ava DuVernay,"Tom Hardy, Lupita Nyongo",Australia,11 Mar 2017,2015,G,141 min,"Comedies, Crime TV Shows",A comedy about a wedding that goes hilariously wrong.
+s202,MOVIE,THE LAST CITY,N/A,"Kiara Advani, Lupita Nyongo, Aamir Khan",South Korea,"December 3, 2017",2010,R,145 min,"Kids' TV, Horror Movies",Two strangers meet and change each other's lives forever.
+s122,TV Show,Lost Harvest,Maria Lopez,n/a,Germany,"November 8, 2017",2010,TV-PG,1 S,"Horror Movies, Thrillers",none
+s194,Movie,MIDNIGHT EMPIRE,Karan Johar,"Irrfan Khan, Ryan Gosling, Aamir Khan",Japan,"June 19, 2022",2015,TV-MA,139 min,"Dramas, Action & Adventure",A gripping story of a family torn apart by secrets.
+s86,MOVIE,Lost Garden,Anurag Kashyap,"Tabu, Priyanka Chopra",U.K.,"April 4, 2022",2099,pg13,93 min,"Thrillers, International Movies",A comedy about a wedding that goes hilariously wrong.
+s115,Movie,Dark Garden,Denis Villeneuve,"Lupita Nyongo, Irrfan Khan",NaN,"December 28, 2022",2020,PG-13,119 min,"Romantic Movies, Documentaries",A comedy about a wedding that goes hilariously wrong.
+s208,movie,Midnight Secret,Christopher Nolan,"Emma Stone, Vikrant Massey, Deepika Padukone, Priyanka Chopra",USA,14 Feb 2024,2023,TV-14,94 minutes,"Crime TV Shows, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s143,TV Show,The Last Song,Maria Lopez,"Tom Hardy, Kiara Advani, Emma Stone, Irrfan Khan",Japan,"December 25, 2021",2021,TV-14,4 Season,"Horror Movies, International Movies",A documentary exploring life in a rapidly changing city.
+s201,Movie,Wild Promise,Sara Ali,"Zendaya, Ryan Gosling, Kiara Advani", United States,2020/09/13,2010,Adult,,"Action & Adventure, Dramas",An investigator uncovers a conspiracy in a small town.
+s105,Movie,Crimson Secret,Steven Lee,"Aamir Khan, Ryan Gosling",Australia,"June 17, 2024",2018,G,170min,"Dramas, Thrillers",A gripping story of a family torn apart by secrets.
+s99,TV Show,The Electric Letter,Greta Gerwig,"Nawazuddin Siddiqui, Kiara Advani, Tom Hardy, Aamir Khan",Australia,"September 1, 2024",2013,TV-PG,6 Seasons,Documentaries | Horror Movies,Two strangers meet and change each other's lives forever.
+s172,Movie,Dark Signal,,"Deepika Padukone, Aamir Khan, Kiara Advani",Germany,19-03-2024,2015,PG,137 min,"Comedies, Thrillers",A comedy about a wedding that goes hilariously wrong.
+s186,TV Show,  Golden Letter  ,Denis Villeneuve,"Zendaya, Irrfan Khan",Japan,"December 18, 2023",2022,PG,2 S,"Romantic Movies, Dramas",A young artist fights to save her neighborhood.
+s24,TV Show,The Distant Empire,Anurag Kashyap,NULL,India,28 Nov 2021,2008,G,6 Season,"Documentaries, Kids' TV",A comedy about a wedding that goes hilariously wrong.
+s66,Movie,Midnight Mirror,Greta Gerwig,"Lupita Nyongo, Irrfan Khan",Spain,2020/12/14,2007,tv14,97 min,"Thrillers, Action & Adventure",A comedy about a wedding that goes hilariously wrong.
+s182,Movie,Midnight Signal,Maria Lopez,"Tabu, Zendaya",Japan,"January 23, 2016",2003,TV-14,92 min,"Thrillers, Romantic Movies",Two strangers meet and change each other's lives forever.
+s20,movie,distant garden,Bong Joon-ho,"Priyanka Chopra, Vikrant Massey",U.S.A,"October 26, 2025",2024,R,158 min,"Action & Adventure, Comedies",A gripping story of a family torn apart by secrets.
+s80,tv show,THE CRIMSON EMPIRE,Ava DuVernay,"Tabu, Kiara Advani, Nawazuddin Siddiqui",Japan,"December 17, 2016",1998,PG-13,2 Seasons,"Dramas, Thrillers",Two strangers meet and change each other's lives forever.
+s193,MOVIE,Last Signal,N/A,"Kiara Advani, Aamir Khan, Deepika Padukone, Nawazuddin Siddiqui",South Korea,"September 31, 2020",2017,R,138 min,"Horror Movies, Documentaries",A young artist fights to save her neighborhood.
+s20,movie,distant garden,Bong Joon-ho,"Priyanka Chopra, Vikrant Massey",U.S.A,"October 26, 2025",2024,R,158 min,"Action & Adventure, Comedies",A gripping story of a family torn apart by secrets.
+s22,Movie,Midnight River,Maria Lopez,,UK,"December 15, 2017",2006,PG,145 min,"Romantic Movies, Crime TV Shows",Two strangers meet and change each other's lives forever.
+s163,Movie,The Wild Empire,Rajkumar Hirani,"Tom Hardy, Emma Stone, Nawazuddin Siddiqui, Rohit Sharma",United States,14 Oct 2022,2004,PG-13,124,Crime TV Shows | Thrillers,An investigator uncovers a conspiracy in a small town.
+s63,Movie,The Dark Harvest,Christopher Nolan,NULL,Australia,"May 22, 2022",1998,TV-14,144 min,"Horror Movies, Action & Adventure",A comedy about a wedding that goes hilariously wrong.
+s37,Movie,The Wild River,Anurag Kashyap,"Kiara Advani, Aamir Khan",Spain,05/25/25,2022,PG,128 min,"Romantic Movies, Documentaries",A young artist fights to save her neighborhood.
+s38,Movie,SILENT SECRET,,"Zendaya, Ryan Gosling",Germany,27-04-2018,1998,PG-13,0 min,"Kids' TV, Documentaries",A comedy about a wedding that goes hilariously wrong.
+s155,Movie,Lost Promise,N/A,"Anya Taylor, Nawazuddin Siddiqui",South Korea,16-05-2019,2006,TV-14,93 min,"International Movies, Comedies",An investigator uncovers a conspiracy in a small town.
+s170,Movie,Velvet Garden,karan johar,"Priyanka Chopra, Nawazuddin Siddiqui, Kiara Advani, Vikrant Massey",Spain,"October 18, 2019",2015,PG-13,96 min,"Thrillers, Horror Movies",A gripping story of a family torn apart by secrets.
+s203,Movie,The Golden City,Rajkumar Hirani,"Ryan Gosling, Nawazuddin Siddiqui, Anya Taylor",Australia,03/02/25,2024,G,121 min,"Documentaries, Comedies",A gripping story of a family torn apart by secrets.
+s238,Movie,Hidden Horizon,Anurag Kashyap,"Lupita Nyongo, Vikrant Massey, John Cho, Ryan Gosling",123,,2004,TV-PG,166 min,"Comedies, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s88,Movie,Last Letter,Meera Nair,"Rohit Sharma, Zendaya, Priyanka Chopra, Irrfan Khan",Bharat,"February 21, 2025",2024,G,86 min,"Kids' TV, Documentaries",An investigator uncovers a conspiracy in a small town.
+s14,Movie,The Velvet Horizon,Karan Johar,NULL,Canada,"January 13, 2019",2018,g,168,"Thrillers, Horror Movies",Two strangers meet and change each other's lives forever.
+s61,Movie,The Midnight Mirror,Zoya Akhtar,"Emma Stone, Zendaya, Ryan Gosling, Lupita Nyongo",France,"December 3, 2018",2007,PG,130 minutes,"Dramas, Romantic Movies",A gripping story of a family torn apart by secrets.
+s4,Movie,THE GOLDEN HORIZON,Sara Ali,"Rohit Sharma, Nawazuddin Siddiqui",Germany,"February 28, 2024",2022,TV-PG,104 min,"Thrillers, Romantic Movies",An investigator uncovers a conspiracy in a small town.
+s145,TV Show,  The Broken Road  ,Denis Villeneuve,"Zendaya, Kiara Advani, Irrfan Khan, John Cho",Japan,"May 5, 2022",2016,TV-14,2 season(s),"International Movies,Kids' TV",A comedy about a wedding that goes hilariously wrong.
+s89,tv show,Electric Letter,Unknown,"Zendaya, Lupita Nyongo",Germany,"June 23, 2016",,g,1 S,"Crime TV Shows, Kids' TV",A documentary exploring life in a rapidly changing city.
+s190, Movie ,THE LAST GAME,Rajkumar Hirani,"John Cho, Ryan Gosling",US,23 Dec 2021,2019,TV-MA,152 min,"Romantic Movies, Horror Movies",A documentary exploring life in a rapidly changing city.
+s148,Movie,The Distant Promise,Anurag Kashyap,"Irrfan Khan, Rohit Sharma, Tom Hardy",united states,04/20/18,2002,TV-PG,142 min,"Horror Movies, International Movies",A documentary exploring life in a rapidly changing city.
+s6,Movie,Velvet Road,N/A,"Kiara Advani, Tom Hardy, John Cho, Zendaya",United Kingdom,23-10-2018,2000,TV-14,115 min,"Thrillers, Documentaries",A young artist fights to save her neighborhood.
+s35,Movie, The Wild Letter ,Maria Lopez,"Zendaya, Kiara Advani, Emma Stone, Nawazuddin Siddiqui",South Korea,"July 18, 2025",2022,G,170 min,"Dramas, Horror Movies",An investigator uncovers a conspiracy in a small town.
+s166,MOVIE,Crimson Storm,Christopher Nolan,"John Cho, Anya Taylor",Germany,"March 16, 2023",2003,PG,111 min,"Romantic Movies, Dramas",A comedy about a wedding that goes hilariously wrong.
+s34,Movie,THE WILD HORIZON,Denis Villeneuve,"Tom Hardy, Anya Taylor",South Korea,18-06-2021,2011,TV-Y7,134 min,"Kids' TV, Dramas",A documentary exploring life in a rapidly changing city.
+s100,Movie,The Velvet Letter,David Chen,"Lupita Nyongo, Emma Stone",united states,"December 1, 2019",2009,PG-99,120 min,"Thrillers, Dramas",An investigator uncovers a conspiracy in a small town.
+s129,Movie,Electric City,Christopher Nolan,"Vikrant Massey, Nawazuddin Siddiqui, Emma Stone, Rohit Sharma",US,NA,2012,TV-PG,138 minutes,"Thrillers, International Movies",A young artist fights to save her neighborhood.
+s205,Movie,The Broken Letter,Christopher Nolan,"Emma Stone, Deepika Padukone, John Cho, Tabu",Spain,"September 31, 2020",2006,TV Y7,82,"Kids' TV, Documentaries",A documentary exploring life in a rapidly changing city.
+s84,Movie,Velvet River,Denis Villeneuve,"John Cho, Ryan Gosling",Australia,07/10/25,2020,G,89 min,"Romantic Movies, Comedies",A comedy about a wedding that goes hilariously wrong.
+s33,Movie,Last Secret,,"Irrfan Khan, Tabu",Japan,2019/08/03,2005,PG-13,166 min,"Thrillers, Kids' TV",Two strangers meet and change each other's lives forever.
+s191,TV Show,The Midnight Harvest,,"Emma Stone, Zendaya", United States,"July 28, 2015",,R,4 season(s),"Comedies, Dramas",A gripping story of a family torn apart by secrets.
+s141,Movie,Broken Secret,-,"Anya Taylor, Tom Hardy, Irrfan Khan, Kiara Advani",UK,"December 5, 2019",2005,TV-Y7,134 min,Documentaries | Action & Adventure,Two strangers meet and change each other's lives forever.
+s200, Movie ,The Hidden Horizon,Steven Lee,"John Cho, Zendaya, Aamir Khan, Nawazuddin Siddiqui",Canada,,-2005,TV-MA,165 min,"Comedies, Romantic Movies",An investigator uncovers a conspiracy in a small town.
+s160,Movie,The Crimson River,Zoya Akhtar,"Emma Stone, Nawazuddin Siddiqui",Canada,"June 26, 2022",2016,TV-MA,130 minutes,International Movies | Romantic Movies,A comedy about a wedding that goes hilariously wrong.
+s240,TV Show,The Lost Empire,Denis Villeneuve,"Anya Taylor, Rohit Sharma, John Cho",Japan,2025/05/23,2023,PG,6 Seasons,"Dramas, Action & Adventure",Two strangers meet and change each other's lives forever.
+s178,TV Show,Lost Mirror,Zoya Akhtar,,Australia,26-01-2025,2007,,2 S,"Crime TV Shows, Dramas",An investigator uncovers a conspiracy in a small town.
+s123,TV Show,Paper Garden,Karan Johar,"Kiara Advani, Irrfan Khan, Tom Hardy, Tabu",NaN,12/05/15,2013,G,5 season(s),"Crime TV Shows, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s167,TV Show,  Broken Garden  ,-,"Kiara Advani, Ryan Gosling, Deepika Padukone",Australia,"August 14, 2025",2014,PG,6 Seasons,"Documentaries, Action & Adventure",A gripping story of a family torn apart by secrets.
+s173,movie,dark road,Unknown,n/a,France,"November 10, 2021",2020,PG-13,95 min,"Romantic Movies, Thrillers",A gripping story of a family torn apart by secrets.
+s9,MOVIE,Midnight Horizon,Anurag Kashyap,"Tom Hardy, Ryan Gosling, Tabu, Rohit Sharma",united kingdom,NA,2014,PG,155 minutes,"Kids' TV, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s24,TV Show,The Distant Empire,Anurag Kashyap,NULL,India,28 Nov 2021,2008,G,6 Season,"Documentaries, Kids' TV",A comedy about a wedding that goes hilariously wrong.
+s108,Movie,The Broken Game,,"Lupita Nyongo, Kiara Advani, Deepika Padukone",Spain,"February 26, 2023",2020,TV-14,162 min,"Action & Adventure, Thrillers",A young artist fights to save her neighborhood.
+s207,TV Show,Broken Road,,"Ryan Gosling, Tom Hardy",Spain,11/05/18,2011,12345,5 Seasons,"Crime TV Shows, Romantic Movies",An investigator uncovers a conspiracy in a small town.
+s35,Movie,The Wild Letter,Maria Lopez,"Zendaya, Kiara Advani, Emma Stone, Nawazuddin Siddiqui",South Korea,"July 18, 2025",2022,G,170 min,"Dramas, Horror Movies",An investigator uncovers a conspiracy in a small town.
+s11,Movie,Broken Signal,Maria Lopez,"Rohit Sharma, John Cho, Vikrant Massey",Japan,"December 23, 2023",2004,g,100min,"Crime TV Shows, International Movies",A gripping story of a family torn apart by secrets.
+s73,movie,The Velvet Road,,"Deepika Padukone, Ryan Gosling, Lupita Nyongo",South Korea,"September 31, 2020",2023,PG-13,77 min,"Comedies, International Movies",A comedy about a wedding that goes hilariously wrong.
+s49,Movie,The Crimson Garden,Rajkumar Hirani,,Germany,03-09-2017,,TV-14,95 min,"Dramas, Documentaries",An investigator uncovers a conspiracy in a small town.
+s62,Movie,Last River,Christopher Nolan,"Ryan Gosling, Priyanka Chopra",South Korea,"October 22, 2021",2014,TV-MA,98,"International Movies, Thrillers",Two strangers meet and change each other's lives forever.
+s199,Movie,Electric Secret,Maria Lopez,NULL,Bharat,"July 10, 2024",2024,,168 min,"Kids' TV, Dramas",Two strangers meet and change each other's lives forever.
+s74,Movie,Iron River,David Chen,"Priyanka Chopra, Zendaya, John Cho, Aamir Khan",INDIA,"October 2, 2018",2014,G,168 min,"Horror Movies, Kids' TV",A young artist fights to save her neighborhood.
+s191,TV Show,The Midnight Harvest,,"Emma Stone, Zendaya", United States,"July 28, 2015",,R,4 season(s),"Comedies, Dramas",A gripping story of a family torn apart by secrets.
+s112,TV Show,The Distant Horizon,Bong Joon-ho,"Nawazuddin Siddiqui, John Cho, Kiara Advani",Australia,09-02-2019,2014,PG-13,2 Seasons,"Crime TV Shows, Thrillers",A documentary exploring life in a rapidly changing city.
+s204,TV SHOW,Golden Promise,Steven Lee,"Ryan Gosling, John Cho, Irrfan Khan",South Korea,26-05-2016,2013,R,4 Seasons,"Romantic Movies, Horror Movies",An investigator uncovers a conspiracy in a small town.
+s36,TV Show,Crimson Harvest,Denis Villeneuve,n/a,UK,2025/03/20,2024,G,5 Seasons,"Thrillers, Dramas",An investigator uncovers a conspiracy in a small town.
+s42,tv show,Last Song,,"Tabu, Zendaya, Emma Stone",Japan,13 Nov 2025,2016,TV-14,3 Seasons,"Romantic Movies, Action & Adventure",
+s176,Movie,the lost mirror,Maria Lopez,"Anya Taylor, Priyanka Chopra",Germany,"December 7, 2020",2012,TV-MA,155 min,"Comedies,Kids' TV",Two strangers meet and change each other's lives forever.
+s232,Movie,  The Midnight Storm  ,David Chen,"Vikrant Massey, Deepika Padukone, Anya Taylor, Zendaya",Germany,"February 15, 2018",2010,TV-PG,131 min,"Comedies, International Movies",A young artist fights to save her neighborhood.
+s123,Movie,The Electric Promise,Zoya Akhtar,"Irrfan Khan, John Cho",Canada,"October 2, 2022",2017,TV-Y7,78 min,"Kids' TV, Dramas",A comedy about a wedding that goes hilariously wrong.
+s210,Movie,The Last Signal,Christopher Nolan,"Vikrant Massey, Rohit Sharma, Anya Taylor",Japan,"February 28, 2025",2020,TV-14,104,"Horror Movies, Comedies",Two strangers meet and change each other's lives forever.
+s127,movie,  WILD RIVER  ,Denis Villeneuve,"Kiara Advani, Zendaya, John Cho, Emma Stone",France,"January 18, 2023",2022,TV-PG,95 min,"Action & Adventure, Dramas",A gripping story of a family torn apart by secrets.
+s138,TV Show,GOLDEN SONG,,,Australia,"July 20, 2025",1999,PG,1 Season,"Documentaries, Dramas",A comedy about a wedding that goes hilariously wrong.
+s47, Movie ,Hidden Promise,Zoya Akhtar,"Deepika Padukone, Ryan Gosling, Vikrant Massey, Rohit Sharma",Untied Kingdom,2016/02/13,2013,TV-14,2h 17m,"Comedies, Documentaries",A gripping story of a family torn apart by secrets.
+s110,movie,Hidden Letter,Maria Lopez,"Kiara Advani, Irrfan Khan, Tom Hardy, Rohit Sharma",South Korea,"February 10, 2018",2017,PG-13,125 minutes,"Thrillers, Romantic Movies",A young artist fights to save her neighborhood.
+s94,TV Show,Broken Promise,Steven Lee,"Zendaya, Kiara Advani, Priyanka Chopra, Nawazuddin Siddiqui",Germany,15-12-2023,2023,tvma,1 season(s),"Crime TV Shows, Documentaries",An investigator uncovers a conspiracy in a small town.
+s224,TV Show,The Silent Storm,Zoya Akhtar,"Irrfan Khan, Priyanka Chopra, Vikrant Massey, Lupita Nyongo",UK,01 Nov 2025,2004,TV-Y7,3 Seasons,"Comedies, Crime TV Shows",A young artist fights to save her neighborhood.
+s148,Movie,The Distant Promise,Anurag Kashyap,"Irrfan Khan, Rohit Sharma, Tom Hardy",united states,04/20/18,2002,TV-PG,142 min,"Horror Movies, International Movies",A documentary exploring life in a rapidly changing city.
+s102,movie,Iron Garden,N/A,"Deepika Padukone, Rohit Sharma, John Cho",Canada,27-07-2023,2007,TV-14,144 min,"Romantic Movies, Dramas",A young artist fights to save her neighborhood.
+s121,MOVIE,The Dark Game,Sara Ali,"Aamir Khan, Priyanka Chopra, Zendaya, Nawazuddin Siddiqui",Australia,"October 10, 2021",2001,TV-MA,167min,"Dramas, International Movies",Two strangers meet and change each other's lives forever.
+s58,TV Show,Dark River,Greta Gerwig,NULL,South Korea,"June 28, 2022",2010,PG-99,2 Season,"Romantic Movies, International Movies",A young artist fights to save her neighborhood.
+s65,TV Show,Paper Letter,Greta Gerwig,"Irrfan Khan, John Cho, Rohit Sharma, Lupita Nyongo",U.K.,2023/10/26,2022,PG-13,3 Seasons,"Dramas, Action & Adventure",A comedy about a wedding that goes hilariously wrong.
+s169,Movie,Last Game,Unknown,"Tom Hardy, Rohit Sharma",Australia,"August 28, 2016",2009,TV PG,90 min,Kids' TV | Horror Movies,Two strangers meet and change each other's lives forever.
+s195,TV Show,Iron Letter,Bong Joon-ho,"Deepika Padukone, Rohit Sharma, Emma Stone, Priyanka Chopra",South Korea,"February 8, 2017",2005,TV-PG,6 Seasons,"Thrillers, Kids' TV",Two strangers meet and change each other's lives forever.
+s209, Movie ,Last Empire,Christopher Nolan,"Rohit Sharma, Aamir Khan, Tom Hardy, Tabu",Canada,,2013,PG,126 min,"International Movies, Action & Adventure",An investigator uncovers a conspiracy in a small town.
+s219,TV SHOW,  The Golden Storm  ,Greta Gerwig,"Anya Taylor, Priyanka Chopra, Zendaya",UK,07/02/19,2014,TV-PG,2 S,Thrillers | Comedies,A comedy about a wedding that goes hilariously wrong.
+s32,TV Show,Lost Storm,,"Tabu, Lupita Nyongo, Anya Taylor",123,"December 17, 2024",,g,4 Season,"Action & Adventure, Documentaries",A young artist fights to save her neighborhood.
+s106, Movie ,Golden Secret,ava duvernay,"Lupita Nyongo, Zendaya, Rohit Sharma",U.S.A,,2016,R,,"Crime TV Shows, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s40,TV Show,The Electric Secret,,"John Cho, Aamir Khan, Anya Taylor, Tom Hardy",Germany,"June 18, 2023",2023,pg13,4 Seasons,"Horror Movies, Romantic Movies",A young artist fights to save her neighborhood.
+s225,TV Show,The Electric City,Greta Gerwig,n/a,India,"October 7, 2018",2013,G,3 Season,"Documentaries, International Movies",An investigator uncovers a conspiracy in a small town.
+s136,Movie,The Last Empire,Sara Ali,NULL,Spain,"June 13, 2024",-2005,R,132 min,Romantic Movies | Comedies,Two strangers meet and change each other's lives forever.
+s239,Movie, The Midnight Empire ,Anurag Kashyap,"Deepika Padukone, Lupita Nyongo",France,"March 10, 2019",2004,TV-MA,162min,"Crime TV Shows, Dramas", 
+,,,,,,,,,,,
+s51,TV Show,Iron Signal,Denis Villeneuve,"Kiara Advani, Zendaya, Deepika Padukone",Australia,"February 15, 2022",2007,PG,6 S,"Horror Movies, Romantic Movies",
+s188,TV Show, Distant River ,Zoya Akhtar,"Deepika Padukone, Tom Hardy, John Cho, Ryan Gosling",Canada,09/05/17,2016,TV-14,6 S,"Action & Adventure, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s111,TV Show,The Lost River,N/A,,UK,"October 6, 2025",2015,TV-14,2 season(s),"Thrillers, Kids' TV",An investigator uncovers a conspiracy in a small town.
+s26,movie,Silent Song,Karan Johar,"John Cho, Tom Hardy, Priyanka Chopra, Irrfan Khan", United States,02/20/15,1066,TV-Y7,130 min,"Kids' TV, Documentaries",An investigator uncovers a conspiracy in a small town.
+s3,Movie,THE IRON RIVER,Maria Lopez,"Emma Stone, Vikrant Massey, Tom Hardy",US,"October 9, 2020",2035,TV-14,80 min,"Kids' TV, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s211, Movie ,WILD HORIZON,Zoya Akhtar,"Rohit Sharma, Ryan Gosling, Kiara Advani",Spain,2023/13/40,2009,PG,95 min,"Thrillers, Documentaries",Two strangers meet and change each other's lives forever.
+s103,Movie,The Hidden Signal,Ava DuVernay,"Kiara Advani, Tabu, Rohit Sharma, Irrfan Khan",France,"July 11, 2022",2010,PG-13,98 min,"Horror Movies, Comedies",A comedy about a wedding that goes hilariously wrong.
+s48,Movie,LOST SECRET,N/A,"Anya Taylor, Nawazuddin Siddiqui, Priyanka Chopra",Australia,"September 13, 2020",2017,PG,132 minutes,"Kids' TV, Comedies",Two strangers meet and change each other's lives forever.
+s185,TV Show,The Distant Road,Anurag Kashyap,"Ryan Gosling, Irrfan Khan, Zendaya",Bharat,"February 15, 2021",1999,TV-PG,N/A,"Documentaries, Action & Adventure",A documentary exploring life in a rapidly changing city.
+s3,Movie, THE IRON RIVER ,Maria Lopez,"Emma Stone, Vikrant Massey, Tom Hardy",US,"October 9, 2020",2035,TV-14,80 min,"Kids' TV, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s216, Movie ,The Crimson Signal,Karan Johar,"Nawazuddin Siddiqui, Lupita Nyongo, Aamir Khan, John Cho",Germany,"October 13, 2015",2005,TV-14,159 min,"Action & Adventure, Horror Movies",A comedy about a wedding that goes hilariously wrong.
+s28, Movie ,Paper Signal,Meera Nair,"Priyanka Chopra, Tom Hardy, Irrfan Khan, Aamir Khan",France,"November 24, 2022",2019,TV-14,97 min,"Documentaries, Horror Movies",A documentary exploring life in a rapidly changing city.
+s91,Movie,The Electric Game,Maria Lopez,"Rohit Sharma, Ryan Gosling, Priyanka Chopra, Lupita Nyongo",united states,10-06-2020,2019,TV-14,158 min,"Crime TV Shows, Horror Movies",A young artist fights to save her neighborhood.
+s238,Movie,Hidden Horizon,Anurag Kashyap,"Lupita Nyongo, Vikrant Massey, John Cho, Ryan Gosling",123,,2004,TV-PG,166 min,"Comedies, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s85,Movie,The Velvet City,Maria Lopez,"Zendaya, Tabu, Rohit Sharma",UK,28-07-2016,2014,PG-13,114 minutes,"Crime TV Shows,Comedies",A documentary exploring life in a rapidly changing city.
+s118,movie,Lost Road,denis villeneuve,"Tom Hardy, Tabu",Spain,07/12/20,2006,TV-14,80,"Comedies, Horror Movies", 
+s158,TV Show,the electric storm,Sara Ali,n/a,South Korea,"December 7, 2022",1998,G,4 Seasons,"Thrillers, Action & Adventure",Two strangers meet and change each other's lives forever.
+s2,TV Show,Electric Road,David Chen,"Tabu, Lupita Nyongo",South Korea,07/08/24,2020,TV-PG,4 Seasons,"Action & Adventure, Thrillers",Two strangers meet and change each other's lives forever.
+s92,TV Show,Crimson Horizon,Karan Johar,"Lupita Nyongo, Nawazuddin Siddiqui",U.K.,"February 21, 2023",2019,tvma,6 Seasons,"Romantic Movies, International Movies",Two strangers meet and change each other's lives forever.
+s15,TV Show,the last letter,Sara Ali,"Ryan Gosling, Vikrant Massey",Canada,"February 2, 2023",2012,R,6 Season,"Horror Movies, International Movies",A comedy about a wedding that goes hilariously wrong.
+s125,Movie,Distant Song,Denis Villeneuve,"Nawazuddin Siddiqui, Kiara Advani, Aamir Khan",France,"November 18, 2024",2001,PG-13,123 min,Romantic Movies | International Movies,A young artist fights to save her neighborhood.
+s81,Movie,The Iron Mirror,ava duvernay,"Irrfan Khan, Emma Stone, Rohit Sharma",Spain,"July 16, 2025",2012,PG-13,152 min,"Romantic Movies, Horror Movies",A gripping story of a family torn apart by secrets.
+s159,Movie,THE LAST HARVEST,Meera Nair,"Anya Taylor, Irrfan Khan, Aamir Khan",Japan,20 Aug 2016,2010,not rated,N/A,"Comedies, Documentaries",A young artist fights to save her neighborhood.
+s119,TV Show,Dark Secret,Karan Johar,"Lupita Nyongo, Rohit Sharma, Ryan Gosling, Emma Stone",Australia,04-03-2018,,TV-Y7,4 Seasons,"Crime TV Shows, Dramas",A gripping story of a family torn apart by secrets.
+s10,TV Show,Midnight City,Zoya Akhtar,"Kiara Advani, Anya Taylor",USA,02-04-2025,2024,R,2 season(s),"Thrillers, International Movies",none
+s212,TV Show,The Paper Garden,Karan Johar,"Vikrant Massey, Ryan Gosling, Anya Taylor",Germany,"November 4, 2021",2014,TV-PG,6 season(s),"Romantic Movies, Thrillers",An investigator uncovers a conspiracy in a small town.
+s132,tv show,Broken Empire,Anurag Kashyap,"Zendaya, Emma Stone, Ryan Gosling",Germany,04 Dec 2022,2020,R,6 S,"International Movies, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s165,MOVIE,The Paper Secret,greta gerwig,"Emma Stone, Ryan Gosling, Tabu",united kingdom,"March 11, 2025",2000,TV-Y7,1h 30m,"Horror Movies, Thrillers",A documentary exploring life in a rapidly changing city.
+s79,tv show,ELECTRIC GARDEN,Christopher Nolan,"Priyanka Chopra, Vikrant Massey, Tabu",Japan,22 Oct 2022,2022,PG,9999 min,"Thrillers, Kids' TV",A documentary exploring life in a rapidly changing city.
+s56,Movie,Broken Letter,Ava DuVernay,"Vikrant Massey, Irrfan Khan",U.K.,"July 27, 2022",2020,TV-Y7,136 min,"Documentaries, Crime TV Shows",A young artist fights to save her neighborhood.
+s101,Movie,LOST RIVER,Christopher Nolan,n/a,Germany,2025/12/16,2022,PG,155,"Action & Adventure, Documentaries",A gripping story of a family torn apart by secrets.
+s146,Movie,Broken Horizon,Steven Lee,"Deepika Padukone, Anya Taylor",,"August 6, 2025",2021,PG,144,"Dramas, Horror Movies",Two strangers meet and change each other's lives forever.
+s162,TV Show,The Iron Horizon,Maria Lopez,"Tabu, Irrfan Khan",United Kingdom,26-11-2019,2018,tvpg,2 season(s),"Crime TV Shows, Horror Movies",A comedy about a wedding that goes hilariously wrong.
+s189,Movie,Paper Game,David Chen,"Emma Stone, Ryan Gosling, Deepika Padukone, Vikrant Massey",Germany,"February 7, 2018",2006,g,92 min,"Romantic Movies, Horror Movies",A gripping story of a family torn apart by secrets.
+s1,Movie,The Crimson City,Maria Lopez,"Ryan Gosling, Priyanka Chopra, Tom Hardy, Aamir Khan",India,"December 4, 2017",2005,PG-13,161 min,"Documentaries, Kids' TV",A documentary exploring life in a rapidly changing city.
+s55, Movie ,The Last Storm,Unknown,"Tabu, Nawazuddin Siddiqui",Spain,01 Feb 2023,2020,PG,155 min,"Crime TV Shows, Horror Movies",A gripping story of a family torn apart by secrets.
+s68,MOVIE,Hidden Harvest,Greta Gerwig,"Aamir Khan, Priyanka Chopra, Irrfan Khan",Japan,04 Jun 2025,2010,TV-MA,161 min,"Comedies, International Movies",A young artist fights to save her neighborhood.
+s76,Movie,Wild City,Denis Villeneuve,"Vikrant Massey, Tom Hardy, Kiara Advani",US,"July 15, 2021",2018,TV-PG,104 min,"Horror Movies, Romantic Movies",A young artist fights to save her neighborhood.
+s124,TV Show,paper harvest,Greta Gerwig,"Priyanka Chopra, Lupita Nyongo, Emma Stone",Germany,"April 8, 2024",2017,TV-PG,,"International Movies, Romantic Movies",A documentary exploring life in a rapidly changing city.
+s77,Movie,Crimson Song,Maria Lopez,"Nawazuddin Siddiqui, Irrfan Khan, Aamir Khan",Australia,04-07-2016,2000,TV-PG,170 min,"Comedies, Horror Movies",An investigator uncovers a conspiracy in a small town.
+s75,Movie,Silent Letter,Christopher Nolan,"John Cho, Tom Hardy, Priyanka Chopra",NaN,"October 5, 2020",2000,TV-14,83,"International Movies, Crime TV Shows",A documentary exploring life in a rapidly changing city.
+s31,TV Show,The Crimson Horizon,Maria Lopez,"Vikrant Massey, Aamir Khan, Irrfan Khan, Emma Stone",USA,,2022,,2 season(s),"Thrillers, International Movies",A young artist fights to save her neighborhood.
+s220,TV Show,THE DARK SIGNAL,Denis Villeneuve,"Anya Taylor, Tom Hardy, Vikrant Massey, Zendaya",South Korea,26-08-2018,2016,PG,1 season(s),"Dramas, Crime TV Shows",Two strangers meet and change each other's lives forever.
+s197,Movie,The Silent Road,Greta Gerwig,n/a,United Kingdom,"January 11, 2022",2014,TV-PG,153min,Dramas | Kids' TV,Two strangers meet and change each other's lives forever.
+s202,TV Show,THE BROKEN HORIZON,Karan Johar,"Priyanka Chopra, Tom Hardy",Japan,2023/11/11,2022,TV-PG,6 Seasons,"Action & Adventure, Kids' TV",A comedy about a wedding that goes hilariously wrong.
+s139,Movie,Iron Game,meera nair,,Spain,2018/12/19,2007,TV-MA,,"Horror Movies, Action & Adventure",An investigator uncovers a conspiracy in a small town.
+s213,TV SHOW,BROKEN GAME,Denis Villeneuve,"Aamir Khan, Anya Taylor, Rohit Sharma, Vikrant Massey",India,"April 22, 2025",2005,G,2 Seasons,Thrillers | Kids' TV,A documentary exploring life in a rapidly changing city.
+s64,Movie,The Velvet Signal,,"Priyanka Chopra, Lupita Nyongo, Nawazuddin Siddiqui, Aamir Khan",South Korea,,2013,tv14,148 min,"Dramas,Kids' TV",A documentary exploring life in a rapidly changing city.
+s174,TV Show,Wild Harvest,-,"Ryan Gosling, Kiara Advani, Priyanka Chopra",Canada,,2005,G,6 Seasons,"Dramas, Kids' TV",A young artist fights to save her neighborhood.
+s234,movie,Hidden Storm,Zoya Akhtar,"Zendaya, Aamir Khan",,23-06-2025,2020,TV-PG,132 min,"Action & Adventure, Crime TV Shows",A documentary exploring life in a rapidly changing city.
+s174,TV Show,WILD HARVEST,-,"Ryan Gosling, Kiara Advani, Priyanka Chopra",Canada,,2005,G,6 Seasons,"Dramas, Kids' TV",A young artist fights to save her neighborhood.
+s29,Movie,Electric Harvest,-,"Ryan Gosling, Nawazuddin Siddiqui, Irrfan Khan, John Cho",Australia,"September 16, 2020",2019,TV-PG,,"Comedies, Documentaries",A young artist fights to save her neighborhood.
+s187,Movie,wild game,Rajkumar Hirani,"Irrfan Khan, Deepika Padukone",NaN,,twenty twenty,TV-MA,137 min,"Crime TV Shows, Horror Movies",A young artist fights to save her neighborhood.
+s96,TV Show,Dark Game,Anurag Kashyap,"Nawazuddin Siddiqui, Anya Taylor, Tom Hardy",United States,"February 10, 2024",2020,TV-MA,1 Season,"International Movies, Romantic Movies",A gripping story of a family torn apart by secrets.
+s44,Movie,Golden Empire,Karan Johar,"John Cho, Tabu, Lupita Nyongo",Unknown,18 Aug 2021,2016,TV-14,0 min,"Action & Adventure, Kids' TV",Two strangers meet and change each other's lives forever.
+s98,tv show,The Paper Game,Sara Ali,"Anya Taylor, Deepika Padukone",NaN,"January 3, 2024",2012,TV-MA,1 Season,"Action & Adventure, Comedies",
+s127,movie,  Wild River  ,Denis Villeneuve,"Kiara Advani, Zendaya, John Cho, Emma Stone",France,"January 18, 2023",2022,TV-PG,95 min,"Action & Adventure, Dramas",A gripping story of a family torn apart by secrets.
+s217,Movie,Paper Mirror,David Chen,"Lupita Nyongo, Irrfan Khan, Nawazuddin Siddiqui",united kingdom,18 Nov 2021,2020,,156 min,"Action & Adventure, Comedies",A comedy about a wedding that goes hilariously wrong.
+s27,TV Show,Lost Song,Karan Johar,"John Cho, Kiara Advani, Anya Taylor, Deepika Padukone",France,2023/13/40,2021,TV-14,1 Season,"Horror Movies, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s181,TV Show,Silent Storm,,"Ryan Gosling, Nawazuddin Siddiqui, Lupita Nyongo, Tom Hardy",Canada,"June 13, 2023",2002,PG,5 Seasons,"Documentaries, Comedies",A comedy about a wedding that goes hilariously wrong.
+s69,Movie,  Last Harvest  ,Greta Gerwig,"Nawazuddin Siddiqui, Tom Hardy, Zendaya, Tabu",Spain,04-08-2019,1999,,87 min,"Kids' TV, Thrillers",A comedy about a wedding that goes hilariously wrong.
+s188,TV Show,Distant River,Zoya Akhtar,"Deepika Padukone, Tom Hardy, John Cho, Ryan Gosling",Canada,09/05/17,2016,TV-14,6 S,"Action & Adventure, Romantic Movies",A comedy about a wedding that goes hilariously wrong.
+s39,TV Show,Broken Mirror,Anurag Kashyap,,United States,"May 4, 2017",2001,TV-MA,5 season(s),"Comedies, Action & Adventure",A young artist fights to save her neighborhood.
+s90,movie,broken river,-,"John Cho, Deepika Padukone, Tabu, Vikrant Massey",Spain,20-11-2020,twenty twenty,TV-Y7,81 min,"Action & Adventure,Kids' TV",A young artist fights to save her neighborhood.
+s116,MOVIE,Silent Signal,,"Tabu, Anya Taylor",Japan,NA,1999,TV-PG,153 min,"Documentaries, Thrillers",A comedy about a wedding that goes hilariously wrong.
+s87,Movie,Iron Mirror,Karan Johar,"Vikrant Massey, Deepika Padukone",Germany,2025/06/28,2016,g,155 min,"Action & Adventure, Kids' TV",A documentary exploring life in a rapidly changing city.
+s230,Movie,Hidden Road,Bong Joon-ho,"Emma Stone, Tom Hardy, John Cho, Lupita Nyongo",Canada,"November 28, 2023",2022,G,3 Seasons,"Romantic Movies, Horror Movies",Two strangers meet and change each other's lives forever.
+s22,Movie,Midnight River,Maria Lopez,,UK,"December 15, 2017",2006,PG,145 min,"Romantic Movies, Crime TV Shows",Two strangers meet and change each other's lives forever.
+s126,MOVIE,Last Horizon,christopher nolan,NULL,Frnace,"September 23, 2019",2015,TV-MA,109 min,"Documentaries, Dramas",A gripping story of a family torn apart by secrets.
+s177,Movie,IRON CITY,Steven Lee,"Zendaya, Irrfan Khan",Australia,"March 8, 2020",2011,tv14,110 min,"Dramas, Action & Adventure",Two strangers meet and change each other's lives forever.
